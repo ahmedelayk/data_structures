@@ -1,5 +1,5 @@
 # data_structures
-creating the most popular data structures with cpp
+## creating the most popular data structures with cpp
 ### Array
   array is a collection of items stored at contiguous memory locations with same type.
   #### operations:
